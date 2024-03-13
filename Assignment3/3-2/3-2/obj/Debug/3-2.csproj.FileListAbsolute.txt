@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\C#--Homework of YangLy\3-2\3-2\bin\Debug\3-2.exe.config
+C:\Users\LENOVO\Desktop\C#--Homework of YangLy\3-2\3-2\bin\Debug\3-2.exe
+C:\Users\LENOVO\Desktop\C#--Homework of YangLy\3-2\3-2\bin\Debug\3-2.pdb
+C:\Users\LENOVO\Desktop\C#--Homework of YangLy\3-2\3-2\obj\Debug\3-2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\C#--Homework of YangLy\3-2\3-2\obj\Debug\3-2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C#--Homework of YangLy\3-2\3-2\obj\Debug\3-2.exe
+C:\Users\LENOVO\Desktop\C#--Homework of YangLy\3-2\3-2\obj\Debug\3-2.pdb
